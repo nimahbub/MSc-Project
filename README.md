@@ -81,8 +81,8 @@ Mode of spread, survival and management information collected from
 <table>
   <tr>
 
-<td align="center"><a href="https://github.com/SM-SHIFAT"><img src="" width="180px;" alt=""/><br /><sub><b>Syed Mahfuzur Rahman<br />Flutter Dev</b></sub></a><br />
-<td align="center"><a href="https://github.com/nimahbub"><img src="" width="180px;" alt=""/><br /><sub><b>Nosin Ibna Mahbub<br />ML Model</b></sub></a><br />
+
+<td align="center"><a href="https://github.com/nimahbub"><img src="" width="180px;" alt=""/><br /><sub><b>Nosin Ibna Mahbub<br /></b></sub></a><br />
 
 </tr>
 </table>
