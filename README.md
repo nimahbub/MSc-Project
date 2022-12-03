@@ -22,21 +22,18 @@ Mode of spread, survival and management is suggested for the disease detected by
 
 
 ## Machine Learning Model
----
-
-* Framework : ---
-* Architecture : ---
-* Validation Accuracy : ---
+#### For installing dependency:
+  - run Model/requirements.txt
 
 
 
-#### How to train
-
----
+#### How to train and evaluate model
+- run Model/model_training.py
+- run Model/evaluation.py
 
 #### How It Works
 
-The input image dataset is converted to tensor and is passed through a --- model, returning an output value corresponding to the plant disease. Input image tensor is passed through ---four--- convolutional layers and then flattened and inputted to fully connected layers. 
+The input image dataset is normalized and augmented and is passed through a LCNN model, returning an output value corresponding to the plant disease.
 
 ## App
 
